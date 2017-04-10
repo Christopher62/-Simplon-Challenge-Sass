@@ -1,0 +1,45 @@
+body {
+  background-image: url("../../img/background.png");
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+#mydiv {
+  margin-top: 8%;
+  margin-left: 2%;
+  width: 80%; }
+  #mydiv img {
+    width: 50%; }
+  #mydiv h3 {
+    text-transform: uppercase;
+    margin-top: 2px;
+    margin-left: 2%;
+    margin-bottom: 0;
+    color: #6944D3;
+    font-weight: normal;
+    font-size: 20px; }
+  #mydiv #span1 {
+    font-weight: bold; }
+  #mydiv i {
+    color: #FFF; }
+  #mydiv #ico1 {
+    margin-left: 1.5%; }
+  #mydiv p {
+    margin-left: 2%;
+    color: #FFF;
+    font-style: 6px;
+    text-align: justify;
+    width: 50%; }
+  #mydiv button {
+    background-color: #6944D3;
+    color: #FFF;
+    border: none;
+    width: 22%;
+    height: 45px; }
+  #mydiv button > i {
+    font-size: 1.2em; }
+  #mydiv #arrowdown {
+    display: block;
+    margin-top: 3%;
+    margin-left: 53%; }
+
+/*# sourceMappingURL=style.css.map */
