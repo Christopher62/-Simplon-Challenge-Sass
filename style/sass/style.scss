@@ -5,9 +5,10 @@ body{
   background-image: url("../../img/background.png");
   background-size: cover;
   background-repeat: no-repeat;
+  overflow: hidden;
 }
 #mydiv{
-  margin-top: 8%;
+  margin-top: 7.5%;
   margin-left: 2%;
   width: 80%;
   img{
